@@ -1,0 +1,494 @@
+2023-11-14 10:07:23,820 :INFO : create_account :Signup button is pressed
+2023-11-14 10:08:50,736 :INFO : create_account :Signup button is pressed
+2023-11-14 10:09:32,182 :INFO : create_account :Signup button is pressed
+2023-11-14 10:09:32,800 :INFO : create_account :User Name is Shahid7
+2023-11-14 10:09:32,843 :INFO : create_account :Password Entered
+2023-11-14 10:09:32,877 :INFO : create_account :SignUp Button is pressed
+2023-11-14 10:09:33,894 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 10:09:33,910 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 10:09:33,962 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 10:09:39,045 :INFO : login_account :Sign In button is pressed
+2023-11-14 10:09:39,610 :INFO : login_account :User Name is entered
+2023-11-14 10:09:39,650 :INFO : login_account :Password is entered
+2023-11-14 10:09:42,552 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 10:09:43,198 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 10:09:43,893 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 10:12:07,919 :INFO : create_account :Signup button is pressed
+2023-11-14 10:12:08,527 :INFO : create_account :User Name is Shahid7
+2023-11-14 10:12:08,567 :INFO : create_account :Password Entered
+2023-11-14 10:12:08,603 :INFO : create_account :SignUp Button is pressed
+2023-11-14 10:12:09,624 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 10:12:09,631 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 10:12:09,699 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 10:12:14,792 :INFO : login_account :Sign In button is pressed
+2023-11-14 10:12:15,408 :INFO : login_account :User Name is entered
+2023-11-14 10:12:15,453 :INFO : login_account :Password is entered
+2023-11-14 10:12:18,546 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 10:12:19,323 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 10:12:19,974 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 10:12:20,984 :INFO : add_to_cart :Alert is Opened
+2023-11-14 10:12:20,994 :INFO : add_to_cart :Alert Accepted
+2023-11-14 10:28:40,370 :INFO : create_account :Signup button is pressed
+2023-11-14 10:28:40,988 :INFO : create_account :User Name is Shahid7
+2023-11-14 10:28:41,032 :INFO : create_account :Password Entered
+2023-11-14 10:28:41,076 :INFO : create_account :SignUp Button is pressed
+2023-11-14 10:28:42,098 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 10:28:42,107 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 10:28:42,183 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 10:28:47,287 :INFO : login_account :Sign In button is pressed
+2023-11-14 10:28:47,945 :INFO : login_account :User Name is entered
+2023-11-14 10:28:47,991 :INFO : login_account :Password is entered
+2023-11-14 10:28:50,888 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 10:28:51,603 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 10:28:52,546 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 10:28:53,560 :INFO : add_to_cart :alert is opened
+2023-11-14 10:28:53,563 :INFO : add_to_cart :alert text Product added.
+2023-11-14 10:28:53,569 :INFO : add_to_cart :Alert Accepted
+2023-11-14 10:36:57,329 :INFO : create_account :Signup button is pressed
+2023-11-14 10:36:57,948 :INFO : create_account :User Name is Shahid7
+2023-11-14 10:36:57,993 :INFO : create_account :Password Entered
+2023-11-14 10:36:58,026 :INFO : create_account :SignUp Button is pressed
+2023-11-14 10:36:59,042 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 10:36:59,049 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 10:36:59,119 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 10:37:04,163 :INFO : login_account :Sign In button is pressed
+2023-11-14 10:37:04,748 :INFO : login_account :User Name is entered
+2023-11-14 10:37:04,790 :INFO : login_account :Password is entered
+2023-11-14 10:37:07,643 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 10:37:08,373 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 10:37:09,082 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 10:37:10,090 :INFO : add_to_cart :alert is opened
+2023-11-14 10:37:10,093 :INFO : add_to_cart :alert text Product added.
+2023-11-14 10:37:10,100 :INFO : add_to_cart :Alert Accepted
+2023-11-14 10:37:25,156 :INFO : create_account :Signup button is pressed
+2023-11-14 10:37:25,757 :INFO : create_account :User Name is Shahid7
+2023-11-14 10:37:25,800 :INFO : create_account :Password Entered
+2023-11-14 10:37:25,836 :INFO : create_account :SignUp Button is pressed
+2023-11-14 10:37:26,849 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 10:37:26,853 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 10:37:26,961 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 10:37:32,051 :INFO : login_account :Sign In button is pressed
+2023-11-14 10:37:32,688 :INFO : login_account :User Name is entered
+2023-11-14 10:37:32,732 :INFO : login_account :Password is entered
+2023-11-14 10:37:35,359 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 10:37:36,061 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 10:37:36,718 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 10:37:37,727 :INFO : add_to_cart :alert is opened
+2023-11-14 10:37:37,729 :INFO : add_to_cart :alert text Product added.
+2023-11-14 10:37:37,733 :INFO : add_to_cart :Alert Accepted
+2023-11-14 10:39:06,408 :INFO : create_account :Signup button is pressed
+2023-11-14 10:39:07,001 :INFO : create_account :User Name is Shahid7
+2023-11-14 10:39:07,043 :INFO : create_account :Password Entered
+2023-11-14 10:39:07,090 :INFO : create_account :SignUp Button is pressed
+2023-11-14 10:39:08,113 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 10:39:08,125 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 10:39:08,199 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 10:39:13,300 :INFO : login_account :Sign In button is pressed
+2023-11-14 10:39:13,919 :INFO : login_account :User Name is entered
+2023-11-14 10:39:13,961 :INFO : login_account :Password is entered
+2023-11-14 10:39:16,848 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 10:39:17,516 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 10:39:18,462 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 10:39:19,469 :INFO : add_to_cart :alert is opened
+2023-11-14 10:39:19,470 :INFO : add_to_cart :alert text Product added.
+2023-11-14 10:39:19,474 :INFO : add_to_cart :Alert Accepted
+2023-11-14 11:07:01,674 :INFO : create_account :Signup button is pressed
+2023-11-14 11:07:02,279 :INFO : create_account :User Name is Shahid7
+2023-11-14 11:07:02,329 :INFO : create_account :Password Entered
+2023-11-14 11:07:02,365 :INFO : create_account :SignUp Button is pressed
+2023-11-14 11:07:03,381 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 11:07:03,383 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 11:07:03,432 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 11:07:08,499 :INFO : login_account :Sign In button is pressed
+2023-11-14 11:07:09,090 :INFO : login_account :User Name is entered
+2023-11-14 11:07:09,140 :INFO : login_account :Password is entered
+2023-11-14 11:07:12,054 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 11:07:12,738 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 11:07:13,398 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 11:07:14,402 :INFO : add_to_cart :alert is opened
+2023-11-14 11:07:14,403 :INFO : add_to_cart :alert text Product added.
+2023-11-14 11:07:14,405 :INFO : add_to_cart :Alert Accepted
+2023-11-14 11:09:56,727 :INFO : create_account :Signup button is pressed
+2023-11-14 11:09:57,325 :INFO : create_account :User Name is Shahid7
+2023-11-14 11:09:57,396 :INFO : create_account :Password Entered
+2023-11-14 11:09:57,429 :INFO : create_account :SignUp Button is pressed
+2023-11-14 11:09:58,444 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 11:09:58,446 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 11:09:58,485 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 11:10:03,575 :INFO : login_account :Sign In button is pressed
+2023-11-14 11:10:04,205 :INFO : login_account :User Name is entered
+2023-11-14 11:10:04,249 :INFO : login_account :Password is entered
+2023-11-14 11:10:07,325 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 11:10:08,092 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 11:10:08,762 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 11:10:09,772 :INFO : add_to_cart :alert is opened
+2023-11-14 11:10:09,774 :INFO : add_to_cart :alert text Product added.
+2023-11-14 11:10:09,785 :INFO : add_to_cart :Alert Accepted
+2023-11-14 11:15:34,723 :INFO : create_account :Signup button is pressed
+2023-11-14 11:16:26,112 :INFO : create_account :Signup button is pressed
+2023-11-14 11:16:27,236 :INFO : create_account :User Name is Shahid7
+2023-11-14 11:16:27,282 :INFO : create_account :Password Entered
+2023-11-14 11:16:27,321 :INFO : create_account :SignUp Button is pressed
+2023-11-14 11:16:28,333 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 11:16:28,335 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 11:16:28,380 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 11:16:33,432 :INFO : login_account :Sign In button is pressed
+2023-11-14 11:16:35,048 :INFO : login_account :User Name is entered
+2023-11-14 11:16:35,148 :INFO : login_account :Password is entered
+2023-11-14 11:16:38,900 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 11:16:39,552 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 11:16:40,259 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 11:16:41,262 :INFO : add_to_cart :alert is opened
+2023-11-14 11:16:41,263 :INFO : add_to_cart :alert text Product added.
+2023-11-14 11:16:41,265 :INFO : add_to_cart :Alert Accepted
+2023-11-14 11:18:32,252 :INFO : create_account :Signup button is pressed
+2023-11-14 11:18:32,854 :INFO : create_account :User Name is Shahid7
+2023-11-14 11:18:32,909 :INFO : create_account :Password Entered
+2023-11-14 11:18:32,951 :INFO : create_account :SignUp Button is pressed
+2023-11-14 11:18:33,967 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 11:18:33,969 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 11:18:34,017 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 11:18:39,066 :INFO : login_account :Sign In button is pressed
+2023-11-14 11:18:39,645 :INFO : login_account :User Name is entered
+2023-11-14 11:18:39,699 :INFO : login_account :Password is entered
+2023-11-14 11:18:42,602 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 11:18:43,287 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 11:18:43,942 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 11:18:44,948 :INFO : add_to_cart :alert is opened
+2023-11-14 11:18:44,950 :INFO : add_to_cart :alert text Product added.
+2023-11-14 11:18:44,953 :INFO : add_to_cart :Alert Accepted
+2023-11-14 11:23:34,524 :INFO : create_account :Signup button is pressed
+2023-11-14 11:23:35,116 :INFO : create_account :User Name is Shahid7
+2023-11-14 11:23:35,181 :INFO : create_account :Password Entered
+2023-11-14 11:23:35,218 :INFO : create_account :SignUp Button is pressed
+2023-11-14 11:23:36,231 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 11:23:36,233 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 11:23:36,282 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 11:23:41,329 :INFO : login_account :Sign In button is pressed
+2023-11-14 11:23:41,902 :INFO : login_account :User Name is entered
+2023-11-14 11:23:41,947 :INFO : login_account :Password is entered
+2023-11-14 11:23:44,707 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 11:23:45,386 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 11:23:46,089 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 11:23:47,094 :INFO : add_to_cart :alert is opened
+2023-11-14 11:23:47,094 :INFO : add_to_cart :alert text Product added.
+2023-11-14 11:23:47,096 :INFO : add_to_cart :Alert Accepted
+2023-11-14 11:25:29,241 :INFO : create_account :Signup button is pressed
+2023-11-14 11:25:29,835 :INFO : create_account :User Name is Shahid7
+2023-11-14 11:25:29,893 :INFO : create_account :Password Entered
+2023-11-14 11:25:29,929 :INFO : create_account :SignUp Button is pressed
+2023-11-14 11:25:30,941 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 11:25:30,944 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 11:25:30,993 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 11:25:36,039 :INFO : login_account :Sign In button is pressed
+2023-11-14 11:25:36,611 :INFO : login_account :User Name is entered
+2023-11-14 11:25:36,656 :INFO : login_account :Password is entered
+2023-11-14 11:25:39,413 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 11:25:40,069 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 11:25:40,717 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 11:25:41,722 :INFO : add_to_cart :alert is opened
+2023-11-14 11:25:41,722 :INFO : add_to_cart :alert text Product added.
+2023-11-14 11:25:41,724 :INFO : add_to_cart :Alert Accepted
+2023-11-14 11:26:23,208 :INFO : create_account :Signup button is pressed
+2023-11-14 11:26:23,828 :INFO : create_account :User Name is Shahid7
+2023-11-14 11:26:23,918 :INFO : create_account :Password Entered
+2023-11-14 11:26:23,987 :INFO : create_account :SignUp Button is pressed
+2023-11-14 11:26:25,002 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 11:26:25,004 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 11:26:25,071 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 11:26:30,129 :INFO : login_account :Sign In button is pressed
+2023-11-14 11:26:30,726 :INFO : login_account :User Name is entered
+2023-11-14 11:26:30,781 :INFO : login_account :Password is entered
+2023-11-14 11:26:33,641 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 11:26:34,372 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 11:26:35,075 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 11:26:36,081 :INFO : add_to_cart :alert is opened
+2023-11-14 11:26:36,083 :INFO : add_to_cart :alert text Product added.
+2023-11-14 11:26:36,086 :INFO : add_to_cart :Alert Accepted
+2023-11-14 11:26:36,782 :INFO : view_carts :Button  is clicked: Cart
+2023-11-14 11:42:20,159 :INFO : create_account :Signup button is pressed
+2023-11-14 11:43:34,746 :INFO : create_account :Signup button is pressed
+2023-11-14 11:43:35,341 :INFO : create_account :User Name is Shahid7
+2023-11-14 11:43:35,413 :INFO : create_account :Password Entered
+2023-11-14 11:43:35,455 :INFO : create_account :SignUp Button is pressed
+2023-11-14 11:43:36,468 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 11:43:36,470 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 11:43:36,517 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 11:43:41,566 :INFO : login_account :Sign In button is pressed
+2023-11-14 11:43:42,145 :INFO : login_account :User Name is entered
+2023-11-14 11:43:42,194 :INFO : login_account :Password is entered
+2023-11-14 11:43:44,842 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 11:43:45,500 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 11:43:46,414 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 11:43:47,418 :INFO : add_to_cart :alert is opened
+2023-11-14 11:43:47,419 :INFO : add_to_cart :alert text Product added.
+2023-11-14 11:43:47,421 :INFO : add_to_cart :Alert Accepted
+2023-11-14 11:43:48,048 :INFO : view_carts :Button  is clicked: Cart
+2023-11-14 11:45:11,035 :INFO : create_account :Signup button is pressed
+2023-11-14 11:45:11,638 :INFO : create_account :User Name is Shahid7
+2023-11-14 11:45:11,687 :INFO : create_account :Password Entered
+2023-11-14 11:45:11,731 :INFO : create_account :SignUp Button is pressed
+2023-11-14 11:45:12,747 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 11:45:12,749 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 11:45:12,797 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 11:45:17,848 :INFO : login_account :Sign In button is pressed
+2023-11-14 11:45:18,419 :INFO : login_account :User Name is entered
+2023-11-14 11:45:18,465 :INFO : login_account :Password is entered
+2023-11-14 11:45:21,353 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 11:45:21,989 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 11:45:22,700 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 11:45:23,704 :INFO : add_to_cart :alert is opened
+2023-11-14 11:45:23,704 :INFO : add_to_cart :alert text Product added.
+2023-11-14 11:45:23,706 :INFO : add_to_cart :Alert Accepted
+2023-11-14 11:45:24,330 :INFO : view_carts :Button  is clicked: Cart
+2023-11-14 11:49:20,258 :INFO : create_account :Signup button is pressed
+2023-11-14 11:49:20,854 :INFO : create_account :User Name is Shahid7
+2023-11-14 11:49:20,902 :INFO : create_account :Password Entered
+2023-11-14 11:49:20,939 :INFO : create_account :SignUp Button is pressed
+2023-11-14 11:49:21,955 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 11:49:21,958 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 11:49:22,028 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 11:49:27,073 :INFO : login_account :Sign In button is pressed
+2023-11-14 11:49:27,649 :INFO : login_account :User Name is entered
+2023-11-14 11:49:27,703 :INFO : login_account :Password is entered
+2023-11-14 11:49:30,535 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 11:49:31,195 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 11:49:31,848 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 11:49:32,852 :INFO : add_to_cart :alert is opened
+2023-11-14 11:49:32,853 :INFO : add_to_cart :alert text Product added.
+2023-11-14 11:49:32,855 :INFO : add_to_cart :Alert Accepted
+2023-11-14 11:49:33,505 :INFO : view_carts :Button  is clicked: Cart
+2023-11-14 11:52:45,753 :INFO : create_account :Signup button is pressed
+2023-11-14 11:52:46,353 :INFO : create_account :User Name is Shahid7
+2023-11-14 11:52:46,418 :INFO : create_account :Password Entered
+2023-11-14 11:52:46,456 :INFO : create_account :SignUp Button is pressed
+2023-11-14 11:52:47,469 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 11:52:47,471 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 11:52:47,520 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 11:52:52,564 :INFO : login_account :Sign In button is pressed
+2023-11-14 11:52:53,136 :INFO : login_account :User Name is entered
+2023-11-14 11:52:53,179 :INFO : login_account :Password is entered
+2023-11-14 11:52:55,448 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 11:52:56,097 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 11:52:56,738 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 11:52:57,742 :INFO : add_to_cart :alert is opened
+2023-11-14 11:52:57,743 :INFO : add_to_cart :alert text Product added.
+2023-11-14 11:52:57,745 :INFO : add_to_cart :Alert Accepted
+2023-11-14 11:52:58,376 :INFO : view_carts :Button  is clicked: Cart
+2023-11-14 11:56:48,615 :INFO : create_account :Signup button is pressed
+2023-11-14 11:56:49,211 :INFO : create_account :User Name is Shahid7
+2023-11-14 11:56:49,269 :INFO : create_account :Password Entered
+2023-11-14 11:56:49,304 :INFO : create_account :SignUp Button is pressed
+2023-11-14 11:56:50,319 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 11:56:50,322 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 11:56:50,368 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 11:56:55,415 :INFO : login_account :Sign In button is pressed
+2023-11-14 11:56:55,985 :INFO : login_account :User Name is entered
+2023-11-14 11:56:56,032 :INFO : login_account :Password is entered
+2023-11-14 11:56:59,112 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 11:56:59,745 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 11:57:00,548 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 11:57:01,552 :INFO : add_to_cart :alert is opened
+2023-11-14 11:57:01,553 :INFO : add_to_cart :alert text Product added.
+2023-11-14 11:57:01,555 :INFO : add_to_cart :Alert Accepted
+2023-11-14 11:57:02,181 :INFO : view_carts :Button  is clicked: Cart
+2023-11-14 12:58:22,898 :INFO : create_account :Signup button is pressed
+2023-11-14 12:58:23,547 :INFO : create_account :User Name is Shahid7
+2023-11-14 12:58:23,595 :INFO : create_account :Password Entered
+2023-11-14 12:58:23,640 :INFO : create_account :SignUp Button is pressed
+2023-11-14 12:58:24,679 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 12:58:24,685 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 12:58:24,774 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 12:58:29,877 :INFO : login_account :Sign In button is pressed
+2023-11-14 12:58:30,503 :INFO : login_account :User Name is entered
+2023-11-14 12:58:30,560 :INFO : login_account :Password is entered
+2023-11-14 12:58:32,964 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 12:58:33,737 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 12:58:34,811 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 12:58:35,315 :INFO : add_to_cart :alert is opened
+2023-11-14 12:58:35,318 :INFO : add_to_cart :alert text Product added.
+2023-11-14 12:58:35,324 :INFO : add_to_cart :Alert Accepted
+2023-11-14 12:59:09,307 :INFO : create_account :Signup button is pressed
+2023-11-14 12:59:09,909 :INFO : create_account :User Name is Shahid7
+2023-11-14 12:59:09,971 :INFO : create_account :Password Entered
+2023-11-14 12:59:10,012 :INFO : create_account :SignUp Button is pressed
+2023-11-14 12:59:11,030 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 12:59:11,037 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 12:59:11,113 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 12:59:16,204 :INFO : login_account :Sign In button is pressed
+2023-11-14 12:59:16,843 :INFO : login_account :User Name is entered
+2023-11-14 12:59:16,890 :INFO : login_account :Password is entered
+2023-11-14 12:59:19,843 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 12:59:20,545 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 12:59:21,208 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 12:59:22,219 :INFO : add_to_cart :alert is opened
+2023-11-14 12:59:22,222 :INFO : add_to_cart :alert text Product added.
+2023-11-14 12:59:22,239 :INFO : add_to_cart :Alert Accepted
+2023-11-14 12:59:22,937 :INFO : view_carts :Button  is clicked: Cart
+2023-11-14 13:02:02,372 :INFO : create_account :Signup button is pressed
+2023-11-14 13:02:02,974 :INFO : create_account :User Name is Shahid7
+2023-11-14 13:02:03,039 :INFO : create_account :Password Entered
+2023-11-14 13:02:03,091 :INFO : create_account :SignUp Button is pressed
+2023-11-14 13:02:04,109 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 13:02:04,116 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 13:02:04,238 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 13:02:09,290 :INFO : login_account :Sign In button is pressed
+2023-11-14 13:02:09,894 :INFO : login_account :User Name is entered
+2023-11-14 13:02:09,937 :INFO : login_account :Password is entered
+2023-11-14 13:02:12,828 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 13:02:13,531 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 13:02:15,245 :INFO : add_to_cart :alert is opened
+2023-11-14 13:02:15,247 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:02:15,860 :INFO : add_to_cart :alert is opened
+2023-11-14 13:02:15,863 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:02:16,461 :INFO : add_to_cart :alert is opened
+2023-11-14 13:02:16,463 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:02:17,061 :INFO : add_to_cart :alert is opened
+2023-11-14 13:02:17,064 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:02:17,668 :INFO : add_to_cart :alert is opened
+2023-11-14 13:02:17,671 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:02:18,251 :INFO : add_to_cart :alert is opened
+2023-11-14 13:02:18,252 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:02:18,841 :INFO : add_to_cart :alert is opened
+2023-11-14 13:02:18,843 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:02:19,423 :INFO : add_to_cart :alert is opened
+2023-11-14 13:02:19,424 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:02:19,989 :INFO : add_to_cart :alert is opened
+2023-11-14 13:02:19,990 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:02:21,060 :INFO : add_to_cart :alert is opened
+2023-11-14 13:02:21,061 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:02:21,063 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 13:04:52,423 :INFO : create_account :Signup button is pressed
+2023-11-14 13:04:53,058 :INFO : create_account :User Name is Shahid7
+2023-11-14 13:04:53,103 :INFO : create_account :Password Entered
+2023-11-14 13:04:53,138 :INFO : create_account :SignUp Button is pressed
+2023-11-14 13:04:54,160 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 13:04:54,174 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 13:04:54,240 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 13:04:59,318 :INFO : login_account :Sign In button is pressed
+2023-11-14 13:04:59,980 :INFO : login_account :User Name is entered
+2023-11-14 13:05:00,023 :INFO : login_account :Password is entered
+2023-11-14 13:05:03,212 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 13:05:03,928 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 13:05:05,646 :INFO : add_to_cart :alert is opened
+2023-11-14 13:05:05,647 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:05:06,320 :INFO : view_carts :Button  is clicked: Cart
+2023-11-14 13:06:06,579 :INFO : create_account :Signup button is pressed
+2023-11-14 13:06:07,172 :INFO : create_account :User Name is Shahid7
+2023-11-14 13:06:07,245 :INFO : create_account :Password Entered
+2023-11-14 13:06:07,282 :INFO : create_account :SignUp Button is pressed
+2023-11-14 13:06:08,302 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 13:06:08,317 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 13:06:08,382 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 13:06:13,480 :INFO : login_account :Sign In button is pressed
+2023-11-14 13:06:14,112 :INFO : login_account :User Name is entered
+2023-11-14 13:06:14,161 :INFO : login_account :Password is entered
+2023-11-14 13:06:17,062 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 13:06:17,734 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 13:06:19,720 :INFO : add_to_cart :alert is opened
+2023-11-14 13:06:19,723 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:06:20,290 :INFO : add_to_cart :alert is opened
+2023-11-14 13:06:20,291 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:06:20,833 :INFO : add_to_cart :alert is opened
+2023-11-14 13:06:20,835 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:06:21,382 :INFO : add_to_cart :alert is opened
+2023-11-14 13:06:21,386 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:06:21,989 :INFO : add_to_cart :alert is opened
+2023-11-14 13:06:21,992 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:06:22,580 :INFO : add_to_cart :alert is opened
+2023-11-14 13:06:22,580 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:06:23,128 :INFO : add_to_cart :alert is opened
+2023-11-14 13:06:23,131 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:06:23,704 :INFO : add_to_cart :alert is opened
+2023-11-14 13:06:23,706 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:06:24,251 :INFO : add_to_cart :alert is opened
+2023-11-14 13:06:24,252 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:06:25,301 :INFO : add_to_cart :alert is opened
+2023-11-14 13:06:25,302 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:06:25,307 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 13:06:46,200 :INFO : view_carts :Button  is clicked: Cart
+2023-11-14 13:07:45,633 :INFO : create_account :Signup button is pressed
+2023-11-14 13:07:46,239 :INFO : create_account :User Name is Shahid7
+2023-11-14 13:07:46,312 :INFO : create_account :Password Entered
+2023-11-14 13:07:46,353 :INFO : create_account :SignUp Button is pressed
+2023-11-14 13:07:47,374 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 13:07:47,389 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 13:07:47,463 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 13:07:52,544 :INFO : login_account :Sign In button is pressed
+2023-11-14 13:07:53,147 :INFO : login_account :User Name is entered
+2023-11-14 13:07:53,188 :INFO : login_account :Password is entered
+2023-11-14 13:07:55,872 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 13:07:56,564 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 13:07:58,317 :INFO : add_to_cart :alert is opened
+2023-11-14 13:07:58,320 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:07:58,907 :INFO : add_to_cart :alert is opened
+2023-11-14 13:07:58,907 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:07:59,458 :INFO : add_to_cart :alert is opened
+2023-11-14 13:07:59,461 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:08:00,103 :INFO : add_to_cart :alert is opened
+2023-11-14 13:08:00,104 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:08:00,658 :INFO : add_to_cart :alert is opened
+2023-11-14 13:08:00,661 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:08:01,274 :INFO : add_to_cart :alert is opened
+2023-11-14 13:08:01,277 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:08:01,875 :INFO : add_to_cart :alert is opened
+2023-11-14 13:08:01,878 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:08:02,486 :INFO : add_to_cart :alert is opened
+2023-11-14 13:08:02,488 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:08:03,063 :INFO : add_to_cart :alert is opened
+2023-11-14 13:08:03,063 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:08:04,117 :INFO : add_to_cart :alert is opened
+2023-11-14 13:08:04,117 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:08:04,123 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 13:08:29,933 :INFO : view_carts :Button  is clicked: Cart
+2023-11-14 13:09:58,564 :INFO : create_account :Signup button is pressed
+2023-11-14 13:09:59,192 :INFO : create_account :User Name is Shahid7
+2023-11-14 13:09:59,243 :INFO : create_account :Password Entered
+2023-11-14 13:09:59,292 :INFO : create_account :SignUp Button is pressed
+2023-11-14 13:10:00,309 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 13:10:00,315 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 13:10:00,358 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 13:10:05,426 :INFO : login_account :Sign In button is pressed
+2023-11-14 13:10:06,021 :INFO : login_account :User Name is entered
+2023-11-14 13:10:06,070 :INFO : login_account :Password is entered
+2023-11-14 13:10:08,937 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 13:10:09,659 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 13:10:10,347 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 13:10:11,357 :INFO : add_to_cart :alert is opened
+2023-11-14 13:10:11,360 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:10:11,375 :INFO : add_to_cart :Alert Accepted
+2023-11-14 13:10:12,072 :INFO : view_carts :Button  is clicked: Cart
+2023-11-14 13:17:25,539 :INFO : create_account :Signup button is pressed
+2023-11-14 13:17:26,166 :INFO : create_account :User Name is Shahid7
+2023-11-14 13:17:26,226 :INFO : create_account :Password Entered
+2023-11-14 13:17:26,262 :INFO : create_account :SignUp Button is pressed
+2023-11-14 13:17:27,283 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 13:17:27,290 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 13:17:27,361 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 13:17:32,407 :INFO : login_account :Sign In button is pressed
+2023-11-14 13:17:32,978 :INFO : login_account :User Name is entered
+2023-11-14 13:17:33,025 :INFO : login_account :Password is entered
+2023-11-14 13:17:35,563 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 13:17:36,495 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 13:17:37,386 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 13:17:38,393 :INFO : add_to_cart :alert is opened
+2023-11-14 13:17:38,396 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:17:38,416 :INFO : add_to_cart :Alert Accepted
+2023-11-14 13:17:39,341 :INFO : view_carts :Button  is clicked: Cart
+2023-11-14 13:18:36,612 :INFO : create_account :Signup button is pressed
+2023-11-14 13:18:37,236 :INFO : create_account :User Name is Shahid7
+2023-11-14 13:18:37,295 :INFO : create_account :Password Entered
+2023-11-14 13:18:37,328 :INFO : create_account :SignUp Button is pressed
+2023-11-14 13:18:38,342 :INFO : switch_to_alert :Alert is Opened
+2023-11-14 13:18:38,344 :INFO : switch_to_alert :Alert Accepted
+2023-11-14 13:18:38,416 :INFO : switch_to_alert :Closed button is pressed after sign up
+2023-11-14 13:18:43,505 :INFO : login_account :Sign In button is pressed
+2023-11-14 13:18:44,148 :INFO : login_account :User Name is entered
+2023-11-14 13:18:44,196 :INFO : login_account :Password is entered
+2023-11-14 13:18:46,925 :INFO : login_account :Logged in as Welcome shahid7
+2023-11-14 13:18:47,692 :INFO : shopping :Item is selected: HTC One M9
+2023-11-14 13:18:48,365 :INFO : add_to_cart :Button  is clicked: Add to cart
+2023-11-14 13:18:49,375 :INFO : add_to_cart :alert is opened
+2023-11-14 13:18:49,378 :INFO : add_to_cart :alert text Product added.
+2023-11-14 13:18:49,395 :INFO : add_to_cart :Alert Accepted
+2023-11-14 13:18:50,074 :INFO : view_carts :Button  is clicked: Cart
